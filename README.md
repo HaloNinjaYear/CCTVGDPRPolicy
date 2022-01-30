@@ -1,5 +1,7 @@
 # CCTV / GDPR Policy
 
+Published 30 Jan 2022
+
 ## Purpose
 The recording equipment operating on the private domestic property is for crime prevention purposes upon the property, such as vehicle theft/damage on the driveway, burglary or criminal damage against the property.
 
