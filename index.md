@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# CCTV / GDPR Policy
 
-You can use the [editor on GitHub](https://github.com/HaloNinjaYear/CCTVGDPRPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
+The recording equipment operating on the private domestic property is for crime prevention purposes upon the property, such as vehicle theft/damage on the driveway, burglary or criminal damage against the property.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Placement and activation
+The camera covers the front driveway and pedestrian access to the side of the property.  Motion detection is restricted to motion upon the private grounds only, this is to prevent continual and accidental recording beyond the boundary.
 
-### Markdown
+## Audio recording
+Audio recording is possible with the technology, however this device has been configured to have this disabled while in operation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Retention of Records
+Where no suspected criminal or evidence gathering has been requested by an authority or no incident related to criminal activity has occured on the premises, recordings will be deleted automatically on a rolling 30 days.  Where there is a requirement to retain data for a criminal investigation, these will be stored in an encrypted format securely away from the camera.
 
-```markdown
-Syntax highlighted code block
+## Signage
+There is a warning of recording using a CCTV sign placed within the window where the camera is located.
 
-# Header 1
-## Header 2
-### Header 3
+## Security Measures
+Footage is only stored when motion detection is detected, this is written in an encrypted AES-128 format to the MicroSD card. If stolen, the footage is inaccessible.
 
-- Bulleted
-- List
+### Access Control
+Recordings are only accessible via the mobile app, which requires access to the WPA3 encrypted local wireless network.  The device itself is fingerprint locked to the sole user. All password defaults have been altered and are using passwords with suitable complexity, not repeated anywhere else and are above 20 characters. Account access is further secured using 2FA.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaloNinjaYear/CCTVGDPRPolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Your Rights
+Subject Access Requests and deletion requests can be received in person or by post to the address where the camera is located.  These will be responded to within one month from receipt.  Depending on whether the footage is available, this will either be provided if requested or confirmation of deletion will be forthcoming dependent on request. Deletion requests may be refused if there is an ongoing legal or criminal investigation and if the footage is required for this purpose.
